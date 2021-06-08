@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="left" width="50%">
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/7be9d91186e5c24fd10354a7cf1bf56a" target="_blank">📊 Weekly development breakdown</a>
@@ -45,7 +45,7 @@ Still Gathering Statistics...
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
 </td>
-<td valign="top" width="50%">
+<td valign="right" width="50%">
 
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
