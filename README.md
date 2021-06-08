@@ -1,13 +1,8 @@
-
-
-
 <table>
 <tr>
 <td valign="top" width="50%">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JIANG-KING)](https://github.com/anuraghazra/github-readme-stats)
-
-[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
 
 </td>
 <td valign="top" width="50%">
