@@ -22,7 +22,7 @@ jobs:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           STEAM_ID: ${{ secrets.STEAM_ID }}
           UPDATE_OPTION: GIST_AND_MARKDOWN
-          MARKDOWN_FILE: https://github.com/JIANG-KING/JIANG-KING/blob/1d22c0a8c29aeffb3783e92fea5127d2975d7ee3/README.md
+          MARKDOWN_FILE: README.md
     steps:
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
