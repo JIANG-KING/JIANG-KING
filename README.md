@@ -35,13 +35,9 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/7be9d91186e5c24fd10354a7cf1bf56a" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go              🕓 29h35m ████████████████████░░ 91.3%
-XML             🕓 1h22m  ▉░░░░░░░░░░░░░░░░░░░░░  4.3%
-Bash            🕓 44m    ▌░░░░░░░░░░░░░░░░░░░░░  2.3%
-PHP             🕓 35m    ▍░░░░░░░░░░░░░░░░░░░░░  1.9%
-Protocol Buffer 🕓 5m     ░░░░░░░░░░░░░░░░░░░░░░  0.3%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
