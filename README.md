@@ -53,5 +53,5 @@ YAML       🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 </tr>
 </table>
 
-<img src="https://github.com/JIANG-KING/JIANG-KING/blob/b6afef93dd80bd120d552f26358d019cb3ad4713/%E7%8C%AB%E7%8C%AB%E5%A3%81%E7%BA%B81.jpg" width="100">
+<img src="https://github.com/JIANG-KING/JIANG-KING/blob/b6afef93dd80bd120d552f26358d019cb3ad4713/%E7%8C%AB%E7%8C%AB%E5%A3%81%E7%BA%B81.jpg" >
 
