@@ -36,7 +36,7 @@ C++   🕓 0s   ░░░░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 104 hrs 24 mins
+💻 Wallpaper Engine                 🕘 104 hrs 54 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 DEATH STRANDING                  🕘 60 hrs 17 mins
