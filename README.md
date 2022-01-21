@@ -38,7 +38,7 @@ Still Gathering Statistics...
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 DEATH STRANDING                  🕘 60 hrs 17 mins
-🎮 Tricolour Lovestory              🕘 57 hrs 21 mins
+🎮 Tricolour Lovestory              🕘 57 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
