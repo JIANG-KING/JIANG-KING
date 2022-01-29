@@ -34,11 +34,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 109 hrs 2 mins
+💻 Wallpaper Engine                 🕘 109 hrs 5 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 DEATH STRANDING                  🕘 60 hrs 17 mins
-🎮 Tricolour Lovestory              🕘 57 hrs 30 mins
+🎮 Tricolour Lovestory              🕘 57 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
