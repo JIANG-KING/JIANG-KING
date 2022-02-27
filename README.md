@@ -40,8 +40,8 @@ Other   🕓 13m █████▎░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                 🕘 109 hrs 32 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
+🎮 The Long Dark                    🕘 61 hrs 17 mins
 🎮 DEATH STRANDING                  🕘 60 hrs 17 mins
-🎮 Tricolour Lovestory              🕘 58 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
