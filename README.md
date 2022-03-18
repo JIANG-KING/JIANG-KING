@@ -41,7 +41,7 @@ JSON          🕓 7m     ▏░░░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                 🕘 109 hrs 32 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
-🎮 The Long Dark                    🕘 68 hrs 52 mins
+🎮 The Long Dark                    🕘 69 hrs 1 mins
 🎮 DEATH STRANDING                  🕘 60 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
