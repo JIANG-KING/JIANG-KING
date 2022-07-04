@@ -42,7 +42,7 @@ XML            🕓 0s ░░░░░░░░░░░░░░░░░░░
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 The Long Dark                    🕘 69 hrs 1 mins
-🎮 Sid Meier's Civilization VI      🕘 64 hrs 0 mins
+🎮 Sid Meier's Civilization VI      🕘 65 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
