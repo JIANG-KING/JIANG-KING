@@ -34,11 +34,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 131 hrs 8 mins
+💻 Wallpaper Engine                 🕘 158 hrs 10 mins
+🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
-🎮 The Long Dark                    🕘 69 hrs 1 mins
-🎮 Sid Meier's Civilization VI      🕘 65 hrs 49 mins
+🎮 The Long Dark                    🕘 69 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
