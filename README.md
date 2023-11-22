@@ -42,7 +42,7 @@ INI            🕓 0s ░░░░░░░░░░░░░░░░░░░
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
-🎮 The Long Dark                    🕘 69 hrs 42 mins
+🎮 The Long Dark                    🕘 71 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
