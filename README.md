@@ -40,7 +40,7 @@ Text           🕓 0s  ░░░░░░░░░░░░░░░░░░�
 ```text
 💻 Wallpaper Engine                 🕘 174 hrs 27 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
-🚓 Grand Theft Auto V               🕘 84 hrs 10 mins
+🚓 Grand Theft Auto V               🕘 84 hrs 32 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 The Long Dark                    🕘 71 hrs 0 mins
 ```
