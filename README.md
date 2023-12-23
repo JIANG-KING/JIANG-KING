@@ -40,7 +40,7 @@ YAML           🕓 8m    █░░░░░░░░░░░░░░░░░
 ```text
 💻 Wallpaper Engine                 🕘 177 hrs 10 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
-🚓 Grand Theft Auto V               🕘 85 hrs 16 mins
+🚓 Grand Theft Auto V               🕘 85 hrs 52 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 🎮 The Long Dark                    🕘 71 hrs 0 mins
 ```
