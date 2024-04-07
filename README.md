@@ -41,7 +41,7 @@ Markdown       🕓 0s ░░░░░░░░░░░░░░░░░░░
 💻 Wallpaper Engine                 🕘 177 hrs 47 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 🚓 Grand Theft Auto V               🕘 85 hrs 59 mins
-🎮 Apex Legends                     🕘 78 hrs 39 mins
+🎮 Apex Legends                     🕘 85 hrs 57 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
