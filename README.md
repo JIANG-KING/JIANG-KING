@@ -39,7 +39,7 @@ Docker         🕓 16m   ▊░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 💻 Wallpaper Engine                 🕘 178 hrs 18 mins
-🎮 Apex Legends                     🕘 155 hrs 49 mins
+🎮 Apex Legends                     🕘 162 hrs 2 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 🚓 Grand Theft Auto V               🕘 85 hrs 59 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
