@@ -34,8 +34,8 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 197 hrs 17 mins
-💻 Wallpaper Engine                 🕘 182 hrs 20 mins
+🎮 Apex Legends                     🕘 202 hrs 24 mins
+💻 Wallpaper Engine                 🕘 185 hrs 20 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 🚓 Grand Theft Auto V               🕘 85 hrs 59 mins
 🎮 Just Cause 3                     🕘 78 hrs 20 mins
