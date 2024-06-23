@@ -41,7 +41,7 @@ Text           🕓 0s  ▏░░░░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 261 hrs 54 mins
 💻 Wallpaper Engine                 🕘 186 hrs 11 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
-🎮 Banana                           🕘 106 hrs 44 mins
+🎮 Banana                           🕘 115 hrs 58 mins
 🚓 Grand Theft Auto V               🕘 85 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
