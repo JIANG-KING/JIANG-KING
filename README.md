@@ -38,11 +38,11 @@ GitIgnore file   🕓 0s  ▎░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 261 hrs 57 mins
+🎮 Apex Legends                     🕘 261 hrs 58 mins
 🎮 Banana                           🕘 215 hrs 56 mins
 💻 Wallpaper Engine                 🕘 187 hrs 3 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
-🚓 Grand Theft Auto V               🕘 85 hrs 59 mins
+🚓 Grand Theft Auto V               🕘 88 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
