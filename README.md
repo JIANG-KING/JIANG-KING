@@ -39,10 +39,10 @@ textmate       🕓 0s    ░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Apex Legends                     🕘 261 hrs 58 mins
-🎮 Banana                           🕘 222 hrs 10 mins
+🎮 Banana                           🕘 230 hrs 26 mins
 💻 Wallpaper Engine                 🕘 187 hrs 3 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
-🚓 Grand Theft Auto V               🕘 111 hrs 41 mins
+🚓 Grand Theft Auto V               🕘 117 hrs 29 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
