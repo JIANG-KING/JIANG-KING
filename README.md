@@ -41,7 +41,7 @@ YAML      🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 262 hrs 2 mins
 🎮 Banana                           🕘 253 hrs 43 mins
 💻 Wallpaper Engine                 🕘 187 hrs 5 mins
-🚓 Grand Theft Auto V               🕘 157 hrs 21 mins
+🚓 Grand Theft Auto V               🕘 157 hrs 33 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
