@@ -41,7 +41,7 @@ GitIgnore file 🕓 2m  ▋░░░░░░░░░░░░░░░░░�
 🎮 Apex Legends                     🕘 262 hrs 12 mins
 🎮 Banana                           🕘 253 hrs 43 mins
 💻 Wallpaper Engine                 🕘 187 hrs 5 mins
-🚓 Grand Theft Auto V               🕘 158 hrs 27 mins
+🚓 Grand Theft Auto V               🕘 162 hrs 24 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
