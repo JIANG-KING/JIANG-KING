@@ -38,7 +38,7 @@ PythonStub   🕓 0s  ▏░░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 262 hrs 17 mins
+🎮 Apex Legends                     🕘 262 hrs 19 mins
 🎮 Banana                           🕘 253 hrs 43 mins
 💻 Wallpaper Engine                 🕘 220 hrs 24 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
