@@ -40,7 +40,7 @@ CSV/TSV      🕓 0s  ░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Apex Legends                     🕘 263 hrs 11 mins
 🎮 Banana                           🕘 253 hrs 43 mins
-💻 Wallpaper Engine                 🕘 220 hrs 24 mins
+💻 Wallpaper Engine                 🕘 220 hrs 45 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 ```
