@@ -40,7 +40,7 @@ SSH Key        🕓 10m ██▍░░░░░░░░░░░░░░░�
 ```text
 🎮 Apex Legends                     🕘 263 hrs 11 mins
 🎮 Banana                           🕘 253 hrs 47 mins
-💻 Wallpaper Engine                 🕘 221 hrs 10 mins
+💻 Wallpaper Engine                 🕘 221 hrs 26 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 ```
