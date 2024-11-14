@@ -40,7 +40,7 @@ JSON     🕓 0s  ░░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Apex Legends                     🕘 263 hrs 16 mins
 🎮 Banana                           🕘 253 hrs 47 mins
-💻 Wallpaper Engine                 🕘 221 hrs 28 mins
+💻 Wallpaper Engine                 🕘 222 hrs 44 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
 ```
