@@ -37,8 +37,8 @@ Text    🕓 0s  ▌░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
+🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Apex Legends                     🕘 263 hrs 16 mins
-🎮 Banana                           🕘 253 hrs 47 mins
 💻 Wallpaper Engine                 🕘 222 hrs 44 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
