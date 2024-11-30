@@ -38,7 +38,7 @@ Still Gathering Statistics...
 🎮 Apex Legends                     🕘 263 hrs 16 mins
 💻 Wallpaper Engine                 🕘 222 hrs 44 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
-🎮 Sid Meier's Civilization VI      🕘 128 hrs 27 mins
+🎮 Sid Meier's Civilization VI      🕘 129 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
