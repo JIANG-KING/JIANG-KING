@@ -42,7 +42,7 @@ Jupyter          🕓 0s  ░░░░░░░░░░░░░░░░░░
 🎮 Apex Legends                     🕘 263 hrs 16 mins
 💻 Wallpaper Engine                 🕘 231 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
-🎮 Sid Meier's Civilization VI      🕘 151 hrs 17 mins
+🎮 Sid Meier's Civilization VI      🕘 159 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
