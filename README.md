@@ -40,7 +40,7 @@ CMake    🕓 0s  ▏░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Apex Legends                     🕘 263 hrs 16 mins
-💻 Wallpaper Engine                 🕘 231 hrs 17 mins
+💻 Wallpaper Engine                 🕘 234 hrs 3 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
 🎮 Sid Meier's Civilization VI      🕘 161 hrs 57 mins
 ```
