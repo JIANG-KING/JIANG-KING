@@ -37,7 +37,7 @@ YAML     🕓 0s ███▏░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 265 hrs 37 mins
+🎮 Apex Legends                     🕘 265 hrs 40 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 💻 Wallpaper Engine                 🕘 235 hrs 16 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
