@@ -39,7 +39,7 @@ Markdown 🕓 0s ░░░░░░░░░░░░░░░░░░░░░
 🎮 Banana                           🕘 265 hrs 17 mins
 💻 Wallpaper Engine                 🕘 235 hrs 16 mins
 🚓 Grand Theft Auto V               🕘 166 hrs 18 mins
-🎮 Sid Meier's Civilization VI      🕘 161 hrs 57 mins
+🎮 Sid Meier's Civilization VI      🕘 161 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
