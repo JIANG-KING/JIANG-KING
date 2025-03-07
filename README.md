@@ -36,8 +36,8 @@ Still Gathering Statistics...
 ```text
 🎮 Apex Legends                     🕘 265 hrs 40 mins
 🎮 Banana                           🕘 265 hrs 17 mins
-💻 Wallpaper Engine                 🕘 235 hrs 31 mins
-🚓 Grand Theft Auto V Legacy        🕘 166 hrs 39 mins
+💻 Wallpaper Engine                 🕘 235 hrs 32 mins
+🚓 Grand Theft Auto V Legacy        🕘 171 hrs 27 mins
 🎮 Sid Meier's Civilization VI      🕘 161 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
