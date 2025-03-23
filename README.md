@@ -34,7 +34,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 268 hrs 51 mins
+🎮 Apex Legends                     🕘 271 hrs 5 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 💻 Wallpaper Engine                 🕘 236 hrs 11 mins
 🚓 Grand Theft Auto V Legacy        🕘 172 hrs 58 mins
