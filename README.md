@@ -37,7 +37,7 @@ Still Gathering Statistics...
 💻 Wallpaper Engine                 🕘 292 hrs 22 mins
 🎮 Apex Legends                     🕘 271 hrs 5 mins
 🎮 Banana                           🕘 265 hrs 17 mins
-🎮 Grand Theft Auto V Enhanced      🕘 177 hrs 56 mins
+🎮 Grand Theft Auto V Enhanced      🕘 179 hrs 29 mins
 🚓 Grand Theft Auto V Legacy        🕘 172 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
