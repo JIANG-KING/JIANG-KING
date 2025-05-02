@@ -35,7 +35,7 @@ Python   🕓 0s ▎░░░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 294 hrs 58 mins
+💻 Wallpaper Engine                 🕘 294 hrs 59 mins
 🎮 Apex Legends                     🕘 271 hrs 5 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Grand Theft Auto V Enhanced      🕘 188 hrs 31 mins
