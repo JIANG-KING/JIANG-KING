@@ -34,8 +34,8 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-💻 Wallpaper Engine                 🕘 307 hrs 58 mins
-🎮 Apex Legends                     🕘 271 hrs 5 mins
+💻 Wallpaper Engine                 🕘 308 hrs 2 mins
+🎮 Apex Legends                     🕘 271 hrs 8 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Grand Theft Auto V Enhanced      🕘 189 hrs 31 mins
 🚓 Grand Theft Auto V Legacy        🕘 172 hrs 58 mins
