@@ -38,7 +38,7 @@ Still Gathering Statistics...
 🎮 Apex Legends                     🕘 278 hrs 51 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Grand Theft Auto V Enhanced      🕘 189 hrs 31 mins
-🎮 Delta Force                      🕘 174 hrs 29 mins
+🎮 Delta Force                      🕘 174 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
