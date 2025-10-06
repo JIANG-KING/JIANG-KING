@@ -37,8 +37,8 @@ Still Gathering Statistics...
 💻 Wallpaper Engine                 🕘 331 hrs 36 mins
 🎮 Apex Legends                     🕘 278 hrs 51 mins
 🎮 Banana                           🕘 265 hrs 17 mins
-🎮 Delta Force                      🕘 242 hrs 42 mins
-🎮 Grand Theft Auto V Enhanced      🕘 194 hrs 4 mins
+🎮 Delta Force                      🕘 243 hrs 26 mins
+🎮 Grand Theft Auto V Enhanced      🕘 195 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
