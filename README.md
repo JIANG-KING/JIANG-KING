@@ -35,7 +35,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 💻 Wallpaper Engine                 🕘 332 hrs 8 mins
-🎮 Delta Force                      🕘 317 hrs 46 mins
+🎮 Delta Force                      🕘 317 hrs 51 mins
 🎮 Apex Legends                     🕘 278 hrs 51 mins
 🎮 Banana                           🕘 265 hrs 17 mins
 🎮 Grand Theft Auto V Enhanced      🕘 198 hrs 55 mins
