@@ -36,7 +36,7 @@ Other 🕓 3m  ███▊░░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/4a041466fc3595596c0e3d14015efd74" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Delta Force                      🕘 397 hrs 20 mins
+🎮 Delta Force                      🕘 402 hrs 10 mins
 💻 Wallpaper Engine                 🕘 332 hrs 8 mins
 🎮 Apex Legends                     🕘 278 hrs 51 mins
 🎮 Banana                           🕘 265 hrs 17 mins
